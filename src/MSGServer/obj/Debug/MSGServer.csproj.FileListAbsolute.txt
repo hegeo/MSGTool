@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\MSGServer\LinkerServer\bin\Debug\LinkerServer.exe.config
+C:\Users\Administrator\Desktop\MSGServer\LinkerServer\obj\Debug\LinkerServer.exe
+C:\Users\Administrator\Desktop\MSGServer\LinkerServer\obj\Debug\LinkerServer.pdb
+C:\Users\Administrator\Desktop\MSGServer\LinkerServer\bin\Debug\MSGServer.exe.config
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\bin\Debug\MSGServer.exe.config
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\bin\Debug\MSGServer.exe
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\bin\Debug\MSGServer.pdb
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\LinkerServer.Main.resources
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.exe
+C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.pdb
