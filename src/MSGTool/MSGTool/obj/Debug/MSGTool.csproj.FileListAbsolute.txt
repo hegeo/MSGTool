@@ -52,3 +52,13 @@ C:\Users\Administrator\Desktop\MSGServer\MSGTool\MSGTool\obj\Debug\MSGTool.cspro
 C:\Users\Administrator\Desktop\MSGServer\MSGTool\MSGTool\obj\Debug\MSGTool.MainForm.resources
 C:\Users\Administrator\Desktop\MSGServer\MSGTool\MSGTool\obj\Debug\MSGTool.Properties.Resources.resources
 C:\Users\Administrator\Desktop\MSGServer\MSGTool\MSGTool\obj\Debug\MSGTool.csproj.GenerateResource.Cache
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\bin\Debug\MSGTool.exe.config
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\bin\Debug\MSGTool.exe
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\bin\Debug\MSGTool.pdb
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.csproj.AssemblyReference.cache
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.MainForm.resources
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.Properties.Resources.resources
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.csproj.GenerateResource.cache
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.csproj.CoreCompileInputs.cache
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.exe
+D:\我的程序\MSGServer开发源码\MSGTool\MSGTool\obj\Debug\MSGTool.pdb

@@ -140,7 +140,23 @@ namespace MSGTool
         {
             if (targetip.Text == "目标IP" || targetport.Text == "端口")
             {
-                MessageBox.Show("ℹ请输入目标IP和端口");
+                if (listate == 0)
+                {
+                    targetip.Text = "127.0.0.1";
+                    targetport.Text = "5500";
+                    serverIP = targetip.Text.ToString();
+                    serverPort = targetport.Text.ToString();
+                    listenThread.Start();
+                    listate = 1;
+                    button_connect.Text = "重启";
+
+                }
+                else
+                {
+                    MSGsender("LOUT:" + idlabel.Text.ToString());
+                    button_connect.BaseColor = Color.DodgerBlue; button_connect.MouseBaseColor = Color.SkyBlue; button_connect.DownBaseColor = Color.LightSkyBlue;
+                    System.Diagnostics.Process.Start(System.Reflection.Assembly.GetExecutingAssembly().Location);
+                }
             }
             else 
             {

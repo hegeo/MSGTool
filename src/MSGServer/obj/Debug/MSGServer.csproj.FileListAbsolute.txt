@@ -10,3 +10,13 @@ C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.Propertie
 C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.exe
 C:\Users\Administrator\Desktop\MSGServer\MSGServer\obj\Debug\MSGServer.pdb
+D:\我的程序\MSGServer开发源码\MSGServer\bin\Debug\MSGServer.exe.config
+D:\我的程序\MSGServer开发源码\MSGServer\bin\Debug\MSGServer.exe
+D:\我的程序\MSGServer开发源码\MSGServer\bin\Debug\MSGServer.pdb
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\MSGServer.csproj.AssemblyReference.cache
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\LinkerServer.Main.resources
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\MSGServer.Properties.Resources.resources
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\MSGServer.csproj.GenerateResource.cache
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\MSGServer.csproj.CoreCompileInputs.cache
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\MSGServer.exe
+D:\我的程序\MSGServer开发源码\MSGServer\obj\Debug\MSGServer.pdb

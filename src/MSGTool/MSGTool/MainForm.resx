@@ -843,8 +843,8 @@ HOME      功能菜单       N A T     获取外网地址
 LIST          用户列表        TOTA     统计信息
 LINK:ID    连接用户        HELP     获取帮助 
 CLEA        清除记录        PROE     设置参数
-[服务端下载]
-https://github.com/encvstin</value>
+[开发者邮箱]
+hegeo@foxmail.com</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

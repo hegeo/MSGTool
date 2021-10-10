@@ -29,16 +29,17 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series9 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main));
             this.skinButton1 = new CCWin.SkinControl.SkinButton();
             this.skinPanel1 = new CCWin.SkinControl.SkinPanel();
             this.cpuChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label13 = new System.Windows.Forms.Label();
             this.CloseButton = new CCWin.SkinControl.SkinButton();
             this.SysInfoTextBox = new CCWin.SkinControl.SkinChatRichTextBox();
             this.label11 = new System.Windows.Forms.Label();
@@ -65,7 +66,6 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.DebugBox = new CCWin.SkinControl.SkinChatRichTextBox();
-            this.label13 = new System.Windows.Forms.Label();
             this.skinPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.cpuChart)).BeginInit();
             this.panel1.SuspendLayout();
@@ -114,66 +114,66 @@
             // 
             this.cpuChart.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(40)))));
             this.cpuChart.BorderSkin.BorderColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.Enabled = System.Windows.Forms.DataVisualization.Charting.AxisEnabled.True;
-            chartArea3.AxisX.LabelStyle.ForeColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.MajorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.MajorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.MinorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX.TitleForeColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.Enabled = System.Windows.Forms.DataVisualization.Charting.AxisEnabled.False;
-            chartArea3.AxisX2.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.MajorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.MajorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.MinorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.MinorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisX2.TitleForeColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.LabelStyle.ForeColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.MajorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.MajorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.MinorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.MinorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY.TitleForeColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.Enabled = System.Windows.Forms.DataVisualization.Charting.AxisEnabled.False;
-            chartArea3.AxisY2.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.MajorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.MajorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.MinorGrid.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.MinorTickMark.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
-            chartArea3.AxisY2.TitleForeColor = System.Drawing.Color.Silver;
-            chartArea3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(37)))), ((int)(((byte)(42)))));
-            chartArea3.BorderColor = System.Drawing.Color.Silver;
-            chartArea3.Name = "ChartArea1";
-            this.cpuChart.ChartAreas.Add(chartArea3);
+            chartArea1.AxisX.Enabled = System.Windows.Forms.DataVisualization.Charting.AxisEnabled.True;
+            chartArea1.AxisX.LabelStyle.ForeColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX.MajorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX.MajorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX.MinorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX.TitleForeColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.Enabled = System.Windows.Forms.DataVisualization.Charting.AxisEnabled.False;
+            chartArea1.AxisX2.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.MajorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.MajorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.MinorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.MinorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisX2.TitleForeColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.LabelStyle.ForeColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.MajorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.MajorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.MinorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.MinorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY.TitleForeColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.Enabled = System.Windows.Forms.DataVisualization.Charting.AxisEnabled.False;
+            chartArea1.AxisY2.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.MajorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.MajorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.MinorGrid.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.MinorTickMark.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.ScaleBreakStyle.LineColor = System.Drawing.Color.Silver;
+            chartArea1.AxisY2.TitleForeColor = System.Drawing.Color.Silver;
+            chartArea1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(37)))), ((int)(((byte)(42)))));
+            chartArea1.BorderColor = System.Drawing.Color.Silver;
+            chartArea1.Name = "ChartArea1";
+            this.cpuChart.ChartAreas.Add(chartArea1);
             this.cpuChart.Cursor = System.Windows.Forms.Cursors.Default;
-            legend3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            legend3.ForeColor = System.Drawing.Color.Silver;
-            legend3.Name = "Legend1";
-            this.cpuChart.Legends.Add(legend3);
+            legend1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            legend1.ForeColor = System.Drawing.Color.Silver;
+            legend1.Name = "Legend1";
+            this.cpuChart.Legends.Add(legend1);
             this.cpuChart.Location = new System.Drawing.Point(0, 0);
             this.cpuChart.Name = "cpuChart";
-            series7.ChartArea = "ChartArea1";
-            series7.LabelBorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            series7.Legend = "Legend1";
-            series7.Name = "CPU使用率";
-            series7.YValuesPerPoint = 4;
-            series8.ChartArea = "ChartArea1";
-            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StepLine;
-            series8.Legend = "Legend1";
-            series8.Name = "RAM使用率";
-            series9.ChartArea = "ChartArea1";
-            series9.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StepLine;
-            series9.Legend = "Legend1";
-            series9.Name = "I / O 使用率";
-            series9.YValuesPerPoint = 2;
-            this.cpuChart.Series.Add(series7);
-            this.cpuChart.Series.Add(series8);
-            this.cpuChart.Series.Add(series9);
+            series1.ChartArea = "ChartArea1";
+            series1.LabelBorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            series1.Legend = "Legend1";
+            series1.Name = "CPU使用率";
+            series1.YValuesPerPoint = 4;
+            series2.ChartArea = "ChartArea1";
+            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StepLine;
+            series2.Legend = "Legend1";
+            series2.Name = "RAM使用率";
+            series3.ChartArea = "ChartArea1";
+            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StepLine;
+            series3.Legend = "Legend1";
+            series3.Name = "I / O 使用率";
+            series3.YValuesPerPoint = 2;
+            this.cpuChart.Series.Add(series1);
+            this.cpuChart.Series.Add(series2);
+            this.cpuChart.Series.Add(series3);
             this.cpuChart.Size = new System.Drawing.Size(502, 204);
             this.cpuChart.TabIndex = 0;
             this.cpuChart.Text = "chart1";
@@ -195,6 +195,17 @@
             this.panel1.TabIndex = 2;
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             this.panel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("微软雅黑", 9F);
+            this.label13.ForeColor = System.Drawing.Color.Silver;
+            this.label13.Location = new System.Drawing.Point(20, 454);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(248, 85);
+            this.label13.TabIndex = 17;
+            this.label13.Text = "[这是什么]\r\n一个内网穿透通讯服务框架，你可以用它实现\r\n服务器监管，远程控制，网络通讯等多种功能\r\n[开发者邮箱]\r\nhegeo@foxmail.com";
             // 
             // CloseButton
             // 
@@ -449,6 +460,7 @@
             this.skinButton5.TabIndex = 23;
             this.skinButton5.Text = "运行指令";
             this.skinButton5.UseVisualStyleBackColor = false;
+            this.skinButton5.Visible = false;
             // 
             // skinButton4
             // 
@@ -471,6 +483,7 @@
             this.skinButton4.TabIndex = 22;
             this.skinButton4.Text = "用户列表";
             this.skinButton4.UseVisualStyleBackColor = false;
+            this.skinButton4.Visible = false;
             // 
             // skinButton3
             // 
@@ -516,6 +529,7 @@
             this.skinButton2.TabIndex = 13;
             this.skinButton2.Text = "服务菜单";
             this.skinButton2.UseVisualStyleBackColor = false;
+            this.skinButton2.Visible = false;
             // 
             // textBox1
             // 
@@ -528,6 +542,7 @@
             this.textBox1.Size = new System.Drawing.Size(199, 23);
             this.textBox1.TabIndex = 20;
             this.textBox1.Text = "请输入指令";
+            this.textBox1.Visible = false;
             // 
             // label12
             // 
@@ -558,18 +573,6 @@
             this.DebugBox.TabIndex = 16;
             this.DebugBox.Text = "";
             this.DebugBox.TextChanged += new System.EventHandler(this.DebugBox_TextChanged);
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label13.ForeColor = System.Drawing.Color.Silver;
-            this.label13.Location = new System.Drawing.Point(20, 454);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(248, 85);
-            this.label13.TabIndex = 17;
-            this.label13.Text = "[这是什么]\r\n一个内网穿透通讯服务框架，你可以用它实现\r\n服务器监管，远程控制，网络通讯等多种功能\r\n[客户端下载]\r\nhttps://github.com/e" +
-    "ncvstin";
             // 
             // Main
             // 
