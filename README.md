@@ -1,2 +1,38 @@
-# MSGTool
-通过有趣的实验学习UDP通信和内网穿透，Learning UDP punching for intranet penetration through fun experiments
+#### 项目简介 
+
+------
+
+**MSGTool**
+
+通过有趣的实验学习UDP通信和内网穿透
+
+Learning UDP punching for intranet penetration through fun experiments
+
+------
+
+#### 基本属性 
+
+支持语言	中文
+
+开发环境	VisualStudio  & C#  Winform程序
+
+实现功能	配置信息，性能监控，内网穿透，图文消息
+
+第三方库	Cskin.dll 界面库
+
+------
+
+#### 操作说明
+
+1.下载bin文件夹内所有文件，先运行服务端，启动服务
+
+2.运行两个客户端，如果在本地测试，直接点击启动即可，会默认使用127.0.0.1 5500连接服务器
+
+3.在客户端上点击服务，查看服务端提供的终端功能，点击列表可查看在线的用户
+
+4.在客户端上点击会话，输入其他用户ID，点击发送即可建立连接，此时可以相互发送消息交流
+
+------
+
+#### 界面预览 
+![image](img/0.png)
