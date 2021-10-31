@@ -35,4 +35,4 @@ Learning UDP punching for intranet penetration through fun experiments
 ------
 
 #### 界面预览 
-![image](img/0.png)
+![image](img/2.png)
